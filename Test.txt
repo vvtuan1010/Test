@@ -1,4 +1,12 @@
 Hello abcxyz
 Changing a
+<<<<<<< HEAD
 Changed from folder clone
 Changed from folder clone 2
+=======
+<<<<<<< HEAD
+ccccc
+=======
+Changed from folder clone
+>>>>>>> 36cc6b4a4eb941f32f8fda3dba81ce0ae816a267
+>>>>>>> f96e3200108393bf3c1b8d6669a8e4534036dae7
