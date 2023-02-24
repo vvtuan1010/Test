@@ -1,3 +1,7 @@
 Hello abcxyz
 Changing a
+<<<<<<< HEAD
 ccccc
+=======
+Changed from folder clone
+>>>>>>> 36cc6b4a4eb941f32f8fda3dba81ce0ae816a267
